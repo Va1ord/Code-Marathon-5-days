@@ -5,3 +5,6 @@ Most likely, for the variety of platforms, I will publish the project and codes 
 And most likely I will not post the code files here. Only a link to my CodePen in the file.
 I actually wanted to participate in the marathon about 10 days ago, but I had some other things to do and some website issues.
 These will be some of the first projects on the web. I will record each project in a separate block
+**/
+Can I create a miniapp in the new MAX messenger?
+/**
