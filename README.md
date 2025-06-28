@@ -14,3 +14,4 @@ So, the first marathon project has been completed!
 I've added a file with a link to my CodePen. I'll post a feature on CodePen later.
 
   Second day - Drag and Drop.
+The second project of the marathon has already been uploaded to CodePen
