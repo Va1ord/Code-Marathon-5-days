@@ -12,6 +12,7 @@ Can I create a miniapp in the new MAX messenger?
   First day - Сarts.
 So, the first marathon project has been completed!
 I've added a file with a link to my CodePen. I'll post a feature on CodePen later.
+I've added an additional feature that allows you to reset the slides when you click on the background.
 
   Second day - Drag and Drop.
 The second project of the marathon has already been uploaded to CodePen
