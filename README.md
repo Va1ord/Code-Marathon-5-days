@@ -8,6 +8,7 @@ These will be some of the first projects on the web. I will record each project 
 **/
 Can I create a miniapp in the new MAX messenger?
 /**
+
   First day - Сarts.
 So, the first marathon project has been completed!
 I've added a file with a link to my CodePen. I'll post a feature on CodePen later.
