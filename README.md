@@ -19,4 +19,5 @@ The second project of the marathon has already been uploaded to CodePen.
 
   Third day - Slaider.
 I have now added some css lines to the projects.
-So, the third project is done
+The third project is done
+So, Day 3 is coming to an end.
