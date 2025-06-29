@@ -21,3 +21,4 @@ The second project of the marathon has already been uploaded to CodePen.
 I have now added some css lines to the projects.
 The third project is done
 So, Day 3 is coming to an end.
+I have added some functions to slider. (1:05)
