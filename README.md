@@ -15,7 +15,8 @@ I've added a file with a link to my CodePen. I'll post a feature on CodePen late
 I've added an additional feature that allows you to reset the slides when you click on the background.
 
   Second day - Drag and Drop.
-The second project of the marathon has already been uploaded to CodePen
+The second project of the marathon has already been uploaded to CodePen.
 
   Third day - Slaider.
 I have now added some css lines to the projects.
+So, the third project is done
