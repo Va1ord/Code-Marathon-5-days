@@ -17,4 +17,5 @@ I've added an additional feature that allows you to reset the slides when you cl
   Second day - Drag and Drop.
 The second project of the marathon has already been uploaded to CodePen
 
-  Third day - Slaider
+  Third day - Slaider.
+I have now added some css lines to the projects.
