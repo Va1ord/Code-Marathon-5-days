@@ -24,4 +24,7 @@ So, Day 3 is coming to an end.
 I have added some functions to slider. (1:05)
 
   Fourth day - Board.
-The fourth project is already on CodePen, but the day is not over yet
+The fourth project is already on CodePen, but the day is not over yet =>
+
+  Fifth day - Aim Traning.
+No you didn't oversleep the day. I made the decision to shorten the marathon and the fifth project is already on my CodePen
