@@ -32,3 +32,4 @@ No you didn't oversleep the day. I made the decision to shorten the marathon and
 You can offer a CS2 player to test aim training.
 
 When someone views my projects, I'll post a few additional features
+I'll post my opinion on the projects later.
