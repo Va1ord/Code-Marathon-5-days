@@ -33,3 +33,4 @@ You can offer a CS2 player to test aim training.
 
 When someone views my projects, I'll post a few additional features
 I'll post my opinion on the projects later.
+I have added some functions to Aim Training. (1:09)
