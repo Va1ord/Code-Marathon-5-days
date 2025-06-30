@@ -22,3 +22,6 @@ I have now added some css lines to the projects.
 The third project is done
 So, Day 3 is coming to an end.
 I have added some functions to slider. (1:05)
+
+  Fourth day - Board.
+The fourth project is already on CodePen, but the day is not over yet
