@@ -23,6 +23,7 @@ The third project is done
 So, Day 3 is coming to an end.
 I have added some functions to slider. (1:05)
 I have now added a function that allows you to switch slides using buttons.
+Chack new changes!
 
   Fourth day - Board.
 The fourth project is already on CodePen, but the day is not over yet =>
