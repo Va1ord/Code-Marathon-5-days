@@ -37,3 +37,4 @@ Now, when you click on the circle, different colors will appear
 When someone views my projects, I'll post a few additional features
 I'll post my opinion on the projects later.
 I have added some functions to Aim Training. (1:09)
+Added the "Play Again" button
