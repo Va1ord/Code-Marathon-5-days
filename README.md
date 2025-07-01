@@ -38,4 +38,8 @@ Now, when you click on the circle, different colors will appear
 When someone views my projects, I'll post a few additional features
 I'll post my opinion on the projects later.
 I have added some functions to Aim Training. (1:09)
-Added the "Play Again" button
+Added the "Play Again" button.
+
+
+  So, the 5-day marathon is coming to an end. Today, I've been improving my projects. If I make any changes, I'll post updates on github. (I'm not saying goodbye yet.)
+  
