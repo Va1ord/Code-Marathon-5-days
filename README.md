@@ -33,7 +33,9 @@ I have added a function that allows you to switch slides using buttons < >
 It's actually the Fourth day.
 No you didn't oversleep the day. I made the decision to shorten the marathon and the fifth project is already on my CodePen.
 You can offer a CS2 player to test aim training.
-Now, when you click on the circle, different colors will appear
+Now, when you click on the circle, different colors will appear.
+You can add glow elements
+circle.style.boxShadow = `0 0 2px ${color}, 0 0 10px ${color}` after setting the color
 
 When someone views my projects, I'll post a few additional features
 I'll post my opinion on the projects later.
