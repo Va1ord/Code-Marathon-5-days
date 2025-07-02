@@ -9,6 +9,7 @@ These will be some of the first projects on the web. I will record each project 
 Can I create a miniapp in the new MAX messenger?
 /**
 I think I can do that, but what about finding bugs (would it be more interesting)?
+Oh, right - you can't comment on this. Good night.
 
   First day - Сarts.
 So, the first marathon project has been completed!
