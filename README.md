@@ -37,7 +37,7 @@ No you didn't oversleep the day. I made the decision to shorten the marathon and
 You can offer a CS2 player to test aim training.
 Now, when you click on the circle, different colors will appear.
 You can add glow elements
-circle.style.boxShadow = `0 0 2px ${color}, 0 0 10px ${color}` after setting the color
+circle.style.boxShadow = `0 0 2px ${color}, 0 0 10px ${color}`; after setting the color
 
 When someone views my projects, I'll post a few additional features
 I'll post my opinion on the projects later.
@@ -48,4 +48,3 @@ This function can be easily implemented, but codepen does not allow it to work. 
 
   So, the 5-day marathon is coming to an end. Today, I've been improving my projects. If I make any changes, I'll post updates on github. (I'm not saying goodbye yet.)
   All the images for the projects were taken from unsplash.
-  
