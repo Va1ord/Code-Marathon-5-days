@@ -20,16 +20,15 @@ I've added an additional feature that allows you to reset the slides when you cl
 The second project of the marathon has already been uploaded to CodePen.
 
   Third day - Slaider.
-I have now added some css lines to the projects.
+I have now added some CSS lines to the projects.
 The third project is done
 So, Day 3 is coming to an end.
 I have added some functions to slider. (1:05)
-I have now added a function that allows you to switch slides using buttons.
-Chack new changes!
+I have now added a function that allows you to switch slides using buttons < >
+Check new changes!
 
   Fourth day - Board.
 The fourth project is already on CodePen, but the day is not over yet =>
-I have added a function that allows you to switch slides using buttons < >
 
   Fifth day - Aim Traning.
 It's actually the Fourth day.
@@ -44,7 +43,7 @@ I'll post my opinion on the projects later.
 I have added some functions to Aim Training. (1:09)
 Added the "Play Again" button.
 Can I publish a "script" on Aim Training?
-This function can be easily implemented, but codepen does not allow it to work. If you want to use the winTheGame function, download the code on VSCode (copy the code from my CodePen), open the website through the Live Server, and run the function in the page console.
+This function can be easily implemented, but CodePen does not allow it to work. If you want to use the winTheGame function, download the code on VSCode (copy the code from my CodePen), open the website through the Live Server, and run the function in the page console.
 
   So, the 5-day marathon is coming to an end. Today, I've been improving my projects. If I make any changes, I'll post updates on github. (I'm not saying goodbye yet.)
   All the images for the projects were taken from unsplash.
