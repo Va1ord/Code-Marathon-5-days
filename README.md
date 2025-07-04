@@ -10,6 +10,7 @@ Can I create a miniapp in the new MAX messenger?
 /**
 I think I can do that, but what about finding bugs (would it be more interesting)?
 Oh, right - you can't comment on this. Good night.
+I think it would be more interesting to work with Telegram bots due to the latest update.
 
   First day - Сarts.
 So, the first marathon project has been completed!
