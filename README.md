@@ -12,6 +12,7 @@ I think I can do that, but what about finding bugs (would it be more interesting
 Oh, right - you can't comment on this. Good night.
 I think it would be more interesting to work with Telegram bots due to the latest update.
 See you soon
+Some bot concepts have become very popular on Telegram. (I can tell you more if you're interested)
 
   First day - Сarts.
 So, the first marathon project has been completed!
