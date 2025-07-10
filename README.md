@@ -13,6 +13,7 @@ Oh, right - you can't comment on this. Good night.
 I think it would be more interesting to work with Telegram bots due to the latest update.
 See you soon
 Some bot concepts have become very popular on Telegram. (I can tell you more if you're interested)
+Can I make another bot in Telegram?
 
   First day - Сarts.
 So, the first marathon project has been completed!
