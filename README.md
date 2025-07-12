@@ -16,6 +16,7 @@ Some bot concepts have become very popular on Telegram. (I can tell you more if 
 Can I make another bot in Telegram?
 It was actually interesting to create different projects.
 I'm considering creating multiple bots at once
+See you soon
 
   First day - Сarts.
 So, the first marathon project has been completed!
