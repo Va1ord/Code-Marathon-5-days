@@ -17,6 +17,7 @@ Can I make another bot in Telegram?
 It was actually interesting to create different projects.
 I'm considering creating multiple bots at once
 See you soon
+I would like to participate in more similar code marathons. I have created a new repository with a Telegram bot, so you can watch it now
 
   First day - Сarts.
 So, the first marathon project has been completed!
