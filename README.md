@@ -19,6 +19,7 @@ I'm considering creating multiple bots at once
 See you soon
 I would like to participate in more similar code marathons. I have created a new repository with a Telegram bot, so you can watch it now
 I think it would be interesting to work with different APIs
+See you soon
 
   First day - Сarts.
 So, the first marathon project has been completed!
