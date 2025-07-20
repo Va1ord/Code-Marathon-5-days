@@ -21,6 +21,7 @@ I would like to participate in more similar code marathons. I have created a new
 I think it would be interesting to work with different APIs
 See you soon
 Maybe I'll start developing a bot and work with the new API
+I plan to work with the Telegram API and Telegram Stars
 
   First day - Сarts.
 So, the first marathon project has been completed!
