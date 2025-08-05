@@ -22,7 +22,8 @@ I think it would be interesting to work with different APIs
 See you soon
 Maybe I'll start developing a bot and work with the new API
 I plan to work with the Telegram API and Telegram Stars
-So
+So, I made a repository (private) with the work of the Telegram Stars, but I have some things to do in the near future
+There's a Twitch API, and I might work with it in my free time
 
   First day - Сarts.
 So, the first marathon project has been completed!
