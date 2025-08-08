@@ -26,7 +26,7 @@ So, I made a repository (private) with the work of the Telegram Stars (modified 
 There's a Twitch API, and I might work with it in my free time
 Can I post codes for exam preparation?
 TG - @va1ord
-So
+So, I've created a Telegram channel, so this channel will be a README instead (probably)
 
   First day - Сarts.
 So, the first marathon project has been completed!
