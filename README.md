@@ -27,6 +27,7 @@ There's a Twitch API, and I might work with it in my free time
 Can I post codes for exam preparation?
 TG - @va1ord
 So, I've created a Telegram channel, so this channel will be a README instead (probably)
+I saw a website, https://codedex.io, many courses are open
 
   First day - Сarts.
 So, the first marathon project has been completed!
