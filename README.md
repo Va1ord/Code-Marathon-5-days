@@ -26,7 +26,7 @@ So, I made a repository (private) with the work of the Telegram Stars (modified 
 There's a Twitch API, and I might work with it in my free time
 Can I post codes for exam preparation?
 TG - @va1ord
-So, I've created a Telegram channel, so this channel will be a README instead (probably)
+So, I've created a Telegram channel, so this channel will be a README instead (probably) You can also contact me using this username by sending a message to the channel.
 I saw a website, https://codedex.io, many courses are open, I will be taking a web development course there soon, and not only the Web
 
   First day - Сarts.
